@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: "DDLSTM: Dual-Domain LSTM for Cross-Dataset Action Recognition"
+github:
+  is_project_page: false
