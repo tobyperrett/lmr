@@ -1,4 +1,6 @@
+<p style="text-align: center;">
 [Toby Perrett](), [Saptarshi Sinha](), [Tilo Burghardt](), [Majid Mirmehdi]() and [Dima Damen]()
+<\p>
 
 ![Image](2x3.jpg)
 
