@@ -1,3 +1,4 @@
+
 <p style="text-align: center;">
 [Toby Perrett](), [Saptarshi Sinha](), [Tilo Burghardt](), [Majid Mirmehdi]() and [Dima Damen]()
 </p>
@@ -13,6 +14,7 @@ We propose a method, Long-Tail Mixed Reconstruction (LMR), which reduces overfit
 
 
 ![Image](m3_1_200.jpg)
+<img src="m3_1_200.jpg" width=50% height=50% align="center">
 
 
 
