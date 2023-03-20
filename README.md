@@ -2,7 +2,7 @@
 [Toby Perrett](), [Saptarshi Sinha](), [Tilo Burghardt](), [Majid Mirmehdi]() and [Dima Damen]()
 </p>
 
-![Image](fig1.pdf)
+![Image](fig1_200.jpg)
 
 ## Abstract
 
