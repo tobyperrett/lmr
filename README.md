@@ -13,16 +13,16 @@ Unlike naturally-collected video datasets and existing long-tail image benchmark
 We propose a method, Long-Tail Mixed Reconstruction (LMR), which reduces overfitting to instances from few-shot classes by reconstructing them as weighted combinations of samples from head classes. 
 
 
-![Image](m3_1_200.jpg)
-
 <p align="center" width="100%">
-    <img width="50%" src="m3_1_200.jpg">
+    <img width="33%" src="m3_1_200.jpg">
 </p>
 
 
 LMR then employs label mixing to learn robust decision boundaries. It achieves state-of-the-art average class accuracy on EPIC-KITCHENS and the proposed SSv2-LT and VideoLT-LT.
 
-![Image](m3_2_200.jpg)
+<p align="center" width="100%">
+    <img width="33%" src="m3_2_200.jpg">
+</p>
 
 ## Paper
 
