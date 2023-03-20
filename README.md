@@ -1,5 +1,6 @@
+
 <p align="center" style="font-size:30px">
-<a href="https://tobyperrett.github.io/">Toby Perrett</a>, <a href="https://tobyperrett.github.io/">Saptarshi Sinha</a>, <a href="https://tobyperrett.github.io/">Tilo Burghardt</a>, <a href="https://tobyperrett.github.io/">Majid Mirmehdi</a> and <a href="https://dimadamen.github.io/">Dima Damen</a>
+<a href="https://tobyperrett.github.io/">Toby Perrett</a>, <a href="">Saptarshi Sinha</a>, <a href="http://people.cs.bris.ac.uk/~burghard/">Tilo Burghardt</a>, <a href="http://people.cs.bris.ac.uk/~majid/">Majid Mirmehdi</a> and <a href="https://dimadamen.github.io/">Dima Damen</a>
 </p>
 
 
