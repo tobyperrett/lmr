@@ -15,7 +15,9 @@ We propose a method, Long-Tail Mixed Reconstruction (LMR), which reduces overfit
 
 ![Image](m3_1_200.jpg)
 
-<img src="m3_1_200.jpg" align="center">
+<p align="center" width="100%">
+    <img width="50%" src="m3_1_200.jpg">
+</p>
 
 
 LMR then employs label mixing to learn robust decision boundaries. It achieves state-of-the-art average class accuracy on EPIC-KITCHENS and the proposed SSv2-LT and VideoLT-LT.
