@@ -1,8 +1,6 @@
-
-<p style="text-align: center;">
-[Toby Perrett](), [Saptarshi Sinha](), [Tilo Burghardt](), [Majid Mirmehdi]() and [Dima Damen]()
+<p align="center" style="font-size:30px">
+<a href="https://tobyperrett.github.io/">Toby Perrett</a>, <a href="https://tobyperrett.github.io/">Saptarshi Sinha</a>, <a href="https://tobyperrett.github.io/">Tilo Burghardt</a>, <a href="https://tobyperrett.github.io/">Majid Mirmehdi</a> and <a href="https://dimadamen.github.io/">Dima Damen</a>
 </p>
-
 
 
 Unlike naturally-collected video datasets and existing long-tail image benchmarks, current video benchmarks fall short on multiple long-tailed properties. Most critically, they lack few-shot classes in their tails. In response, we propose new video benchmarks that better assess long-tail recognition, by sampling subsets from two datasets: SSv2 and VideoLT.
