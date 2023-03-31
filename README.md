@@ -36,6 +36,8 @@ LMR then employs label mixing to learn robust decision boundaries. It achieves s
 
 [GitHub](https://github.com/tobyperrett/lmr-release)
 
+<a href="https://github.com/tobyperrett/lmr-release">GitHub</a>
+
 ## Bibtex
 
 If you find this helpful, please cite our paper:
