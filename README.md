@@ -38,6 +38,8 @@ LMR then employs label mixing to learn robust decision boundaries. It achieves s
 
 ## Bibtex
 
+If you find this helpful, please cite our paper:
+
 ```BibTeX
 @inproceedings{perrett2023,
    title={Use Your Head: Improving Long-Tail Video Recognition}, 
@@ -47,4 +49,4 @@ LMR then employs label mixing to learn robust decision boundaries. It achieves s
 }
 ```
 
-## Acknowledgements
+And also cite the [EPIC](https://epic-kitchens.github.io/), [Something-Something V2](https://developer.qualcomm.com/software/ai-datasets/something-something) and [VideoLT](https://videolt.github.io/) works.
