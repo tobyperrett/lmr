@@ -69,7 +69,7 @@ Our proposed method, LMR, achieves state-of-the-art average class accuracy on EP
 
 ## Bibtex
 
-When using the code proposed,, please cite our paper:
+When using the code or method, please cite our paper:
 
 ```BibTeX
 @inproceedings{perrett2023,
