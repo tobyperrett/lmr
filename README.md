@@ -59,6 +59,8 @@ Our proposed method, LMR, achieves state-of-the-art average class accuracy on EP
 
 [PDF](use_your_head.pdf)
 
+<a href="https://arxiv.org/abs/2304.01143">arXiv</a>
+
 ## Benchmarks
 
 <a href="https://github.com/tobyperrett/lmr-release#lt-dataset-splits">Long-Tail Splits</a>
