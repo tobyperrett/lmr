@@ -8,7 +8,7 @@ CVPR 2023
 </p>
 
 <h3>Introduction</h3>
-This paper offers an investigation into long-tailed video recognition, proposes two new benchmarks and then a new method: Long-Tail Mixed Reconstruction (LMR) which produces SOTA results for long-tailed video recognition. We briefly describe our contributions next,
+This paper offers an investigation into long-tailed video recognition, proposes two new benchmarks and then a new method: Long-Tail Mixed Reconstruction (LMR) which produces SOTA results for long-tailed video recognition. We briefly describe our contributions next.
 
 <h3>Datasets and Benchmarks</h3>
 In this paper, we first explore <b>long-tail video recognition</b> datasets and works. We find that, unlike naturally-collected video datasets and existing long-tail image benchmarks, current video benchmarks fall short on multiple long-tailed properties (presented next). Most critically, they lack few-shot classes in their tails. In response, we propose new video benchmarks that better assess long-tail recognition, by sampling subsets from two datasets: SSv2 and VideoLT.
