@@ -53,6 +53,12 @@ LMR then employs label mixing to learn robust decision boundaries.
 
 Our proposed method, LMR, achieves state-of-the-art average class accuracy on EPIC-KITCHENS and the proposed SSv2-LT and VideoLT-LT. We share code and models below.
 
+## Video
+
+[![Use Your Head: Improving Long-Tail Video Recognition]
+(https://img.youtube.com/vi/TXEMh99Ukmg/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=TXEMh99Ukmg)
+
 <h3>Paper, Benchmarks, Code and Models</h3>
 
 ## Paper
