@@ -55,9 +55,8 @@ Our proposed method, LMR, achieves state-of-the-art average class accuracy on EP
 
 ## Video
 
-[![Use Your Head: Improving Long-Tail Video Recognition]
-(https://img.youtube.com/vi/TXEMh99Ukmg/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=TXEMh99Ukmg)
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/watch?v=TXEMh99Ukmg/" frameborder="0" allow="encrypted-media" allowfullscreen=""></iframe>
+
 
 <h3>Paper, Benchmarks, Code and Models</h3>
 
