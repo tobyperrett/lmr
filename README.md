@@ -55,10 +55,8 @@ Our proposed method, LMR, achieves state-of-the-art average class accuracy on EP
 
 ## Video
 
-<iframe id="video" width="560" height="315" src="https://www.youtube.com/watch?v=TXEMh99Ukmg/" frameborder="0" allow="encrypted-media" allowfullscreen=""></iframe>
+[YouTube](https://www.youtube.com/watch?v=TXEMh99Ukmg)
 
-
-<h3>Paper, Benchmarks, Code and Models</h3>
 
 ## Paper
 
